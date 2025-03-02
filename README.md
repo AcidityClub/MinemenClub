@@ -32,7 +32,7 @@ GitHub full of Minemen Club stuff I have collected over the past few months.
 - [/c Punishment Lookup Gui (VIDEO)](https://github.com/AcidityClub/MinemenClub/blob/main/videos/cqnw.mp4)
 
 ### AntiGamingChair (Plugin)
-- [AGC Alert (real?)]([https://github.com/AcidityClub/MinemenClub/blob/main/images/xenitrogen_ban_message_silent.png](https://github.com/AcidityClub/MinemenClub/blob/main/images/antigamingchair_alert.png))
+- [AGC Alert (real?)](https://github.com/AcidityClub/MinemenClub/blob/main/images/antigamingchair_alert.png)
 
 - [AGC Lookup (Berked)](https://github.com/AcidityClub/MinemenClub/blob/main/images/antigamingchair_lookup_berked.png)
 
