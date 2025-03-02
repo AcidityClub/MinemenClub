@@ -1,5 +1,7 @@
 Name: (Club) Core
+
 Date: 2017 (Compiled on August 21 of 2017)
+
 Authors: Minemen Club
 
 Description:
