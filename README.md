@@ -1,4 +1,4 @@
 # Minemen Club
 GitHub full of Minemen Club stuff I have collected over the past few months.
 
-[![test](a)](videos/cqnw.mp4)
+![test](https://github.com/AcidityClub/MinemenClub/raw/refs/heads/main/videos/cqnw.mp4)
