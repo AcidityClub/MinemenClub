@@ -122,3 +122,71 @@ https://www.mediafire.com/file/w8ztcp7oki5xrps/clubspigot.jar/file
 
 Link:
 - [Click Here!](https://github.com/AcidityClub/MinemenClub/tree/main/spigot)
+
+## Command Map
+The information here is probably not 100% accurate!
+
+### XeNitrogen (Handles generalized tasks, ex: punishments/punishment lookups, filtered messages, ...)
+- /cd <player>
+
+- /c <player>
+
+- /cf
+
+- /clearchat
+
+- /mutechat
+
+- /slowchat <duration (seconds)>
+
+- /tempmute <player> <duration> <reason>
+
+- /mute <player> <reason>
+
+- /tfm
+
+- /unmutechat
+
+- /staffhistory [player]
+
+- /ban <player> <reason>
+
+- /tempban <player> <duration> <reason>
+
+- /tp <player>
+
+- /profile <player>
+
+- /tphere <player>
+
+- /alts <player>
+
+- /resetstats <player>
+
+### Practice (Handles practice related tasks)
+- /fol <player>
+
+- /matchhistory <player>
+
+- /tournamentadmin <id> <kit> <team slot> <count>
+
+### Basic
+- /disguise (CONFIRMED!)
+
+- /onlinedisguises
+
+### ClubModUtilities (Handles staff chat and other staff exclusive features)
+- /jtp <player>
+
+- /tsm
+
+- /staffchat
+
+- /adminchat
+
+- /onlinestaff
+
+- /onlinemedia (???)
+
+### Unknown
+- idk
