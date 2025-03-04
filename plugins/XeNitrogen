@@ -1,0 +1,20 @@
+# XeNitrogen
+XeNitrogen is Minemen Club's main server management core, and handles a TON of things.
+
+## What Does It Have/Handle?
+### General
+- Rank Management System
+
+- Punishment Lookups
+
+- Various Commands (/list, /c, /tempban, ...)
+
+- Filtered Messages
+
+- Staff History Lookups
+
+### Database
+- Jedis Integration 
+
+- Backend Integration
+
