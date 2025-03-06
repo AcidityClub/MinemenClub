@@ -15,3 +15,6 @@ XeNitrogen is Minemen Club's main server management core, and handles a TON of t
 - Jedis
 
 - Backend
+
+## Screenshots
+![Screenshot of XeNitrogen Src Folder](https://github.com/AcidityClub/MinemenClub/blob/main/images/xenitrogen_folder.png?raw=true)
